@@ -1,4 +1,7 @@
 # Introduction
+
+[![CI](https://github.com/Kotryos/vertx-sbe-codec/actions/workflows/ci.yml/badge.svg)](https://github.com/Kotryos/vertx-sbe-codec/actions/workflows/ci.yml)
+
 This is an example project that features a Vert.x Event Bus message codec powered by 
 [Twitter Serial framework](https://github.com/twitter/Serial). 
 
